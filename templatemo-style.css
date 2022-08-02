@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background:linear-gradient(rgba(0,0,0,0.8),transparent), url('../images/home-bg.png');
+        background:linear-gradient(rgba(0,0,0,0.8),transparent), url('home-bg.png');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
